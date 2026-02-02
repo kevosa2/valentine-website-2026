@@ -5,7 +5,7 @@
 const CONFIG = {
     // Your Valentine's name that will appear in the title
     // Example: "Jade", "Sarah", "Mike"
-    valentineName: "PAULA(paulaner)",
+    valentineName: "Nessa",
 
     // The title that appears in the browser tab
     // You can use emojis! 💝 💖 💗 💓 💞 💕
@@ -49,7 +49,7 @@ const CONFIG = {
 
     // Messages that appear after they say "Yes!"
     celebration: {
-        title: "Yay! I'm the luckiest person in the world! 🎉💝💖💝💓",
+        title: "Yssss! I'm the luckiest person in the world! I love you so much babe 🎉💝💖💝💓",
         message: "Cannot wait, now come get hugs and kisses!!",
         emojis: "🎁💖🤗💝💋❤️💕"  // These will bounce around
     },
@@ -78,8 +78,8 @@ const CONFIG = {
     music: {
         enabled: true,                     // Music feature is enabled
         autoplay: true,                    // Try to autoplay (note: some browsers may block this)
-        musicUrl: "https://res.cloudinary.com/dslll8ukl/video/upload/v1769889406/Tems_-_Me___U_Official_Video_esmp3_mp3cut.net_mslhsm.mp3", // Music streaming URL
-        startText: "🎵 Play Music",        // Button text to start music
+        musicUrl: "https://res.cloudinary.com/ddp5gb4hn/video/upload/v1770053504/Gabzy_-_Set_Nice_Official_Audio_esmp3.cc_jx3bs3.mp3", // Music streaming URL
+        startText: "🎵 Play Music!!!",        // Button text to start music
         stopText: "🔇 Stop Music",         // Button text to stop music
         volume: 0.5                        // Volume level (0.0 to 1.0)
     }
